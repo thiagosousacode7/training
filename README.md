@@ -1,6 +1,6 @@
 # training
 O objetivo é simples, forkar esse branch na sua conta github, preencher as informações abaixo, commitar e depois fazer um PR de volta para projeto.
 
-Nome:
-Conta no github:
+Nome: Caique do Prado Nascimento alteração bla bla
+Conta no github: CaiqueXlab
 
